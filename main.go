@@ -24,7 +24,7 @@ var config = struct {
 
 func init() {
 	InstallPlugin(&PluginConfig{
-		Name:   "TS",
+		Name:   "LiveTs",
 		Config: &config,
 		// HotConfig: map[string]func(interface{}){
 		// 	"AutoPublish": func(value interface{}) {
