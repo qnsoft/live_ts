@@ -1,4 +1,4 @@
-module live_ts
+module github.com/qnsoft/live_ts
 
 go 1.16
 
